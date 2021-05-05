@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  color: #264653;
+}
+
+.container {
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #e9c46a;
+  border-radius: 20px;
+}
+
+#PrincipalPage {
+  width: 100%;
+  display: flex;
+  background-color: #2a9d8f;
+}

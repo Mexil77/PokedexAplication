@@ -1,0 +1,17 @@
+#PokemonList {
+  width: 70%;
+  background-color: #e76f51;
+  height: 100vh;
+  overflow: scroll;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+#imgLoadingDiv {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

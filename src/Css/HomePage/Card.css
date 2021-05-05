@@ -1,0 +1,70 @@
+#CardInfo {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#CardInfo__img {
+  width: 50%;
+  height: 140px;
+  border-radius: 50%;
+}
+
+#CardInfo__tipesDiv {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+
+#CardInfo__tipesDiv h3 {
+  margin: 0;
+}
+
+#CardInfo__description {
+  width: 90%;
+  text-align: justify;
+}
+
+#PokemonData {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+#UserLinks {
+  margin: 5px;
+}
+
+#CardInfo__statsTable {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+#CardInfo__statsTable h2 {
+  margin: 5px 0;
+}
+
+#CardInfo__statsTable ul {
+  border: 1px solid #000;
+  border-radius: 20px;
+  padding: 0;
+  margin: 0;
+  width: 80%;
+}
+
+#CardInfo__statsTable ul li {
+  display: flex;
+  width: 90%;
+  justify-content: space-around;
+}
+
+#CardInfo__statsTable ul li p {
+  margin: 2px 0;
+}
+
+#CardInfo__foother {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
