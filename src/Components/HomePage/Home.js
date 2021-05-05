@@ -11,7 +11,7 @@ export default class Home extends Component {
     pokemons: [],
     pokemonSelected: {
       number: 0,
-      urlSprite: "https://i.imgur.com/0u8xXQC.png",
+      urlSprite: "https://i.imgur.com/kIlNnCg.jpg",
       name: "Emmanuel G.",
       type1: "",
       type2: "",
